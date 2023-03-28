@@ -1,0 +1,22 @@
+#chat-area {
+    height: 400px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .message {
+    margin-bottom: 10px;
+  }
+  
+  .user-message {
+    font-weight: bold;
+  }
+  
+  .bot-message {
+    font-weight: normal;
+  }
+  
+#submitbtn{
+  position: relative;
+}
